@@ -5,6 +5,7 @@
     
 }
 
-.carousel-inner{
-    max-width: 100%;
+.col-md-4 img{
+    height: 300px;
+    width: 250px;
 }
